@@ -2,7 +2,7 @@
 Data Integration Project for DS 320
 
 
-The main objec1ve of the term project is to demonstrate the feasibility of some of the learned data
+The main objectve of the term project is to demonstrate the feasibility of some of the learned data
 integration techniques to enable searching for informa6on across multiple sources and/or improve the
 predictive statistical analysis of a challenging real-world problem.
 
